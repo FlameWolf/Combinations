@@ -13,7 +13,7 @@ internal class Program
 	static readonly List<ValueTuple<string, string>> pairs =
 	[
 		("Greeshma", "Hemant"),
-		("Varsha", "Shishira"),
+		("Shishira", "Varsha"),
 		("Sharat", "Vasant"),
 	];
 
